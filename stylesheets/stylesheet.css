@@ -57,10 +57,10 @@ body {
 }
 
 a {
-  color: #24D666;
+  color: #20C05C;
 }
 a:hover {
-  color: #c5000c;
+  color: #24D666;
 }
 
 header {
@@ -260,7 +260,7 @@ h3 {
   margin-bottom: 8px;
   font-size: 18px;
   font-weight: bold;
-  color: #24D666;
+  color: #20C05C;
 }
 
 h4 {
