@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Taggify.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">juniorc</Value>
+    </Setting>
+    <Setting Name="secret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">e6346a8560568f61</Value>
+    </Setting>
+    <Setting Name="token" Type="System.String" Scope="User">
+      <Value Profile="(Default)">S=s336:U=339313c:E=15a525c0e36:C=152faaae1e8:P=1cd:A=en-devtoken:V=2:H=639092783c184e3775697f3ee34a5c54</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
