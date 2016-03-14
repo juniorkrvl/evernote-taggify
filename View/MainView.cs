@@ -60,6 +60,7 @@ namespace Taggify
         {
             cbNotebooks.Enabled = true;
             btnTaggify.Enabled = true;
+            btnSync.Enabled = true;
             txtLog.Enabled = true;
         }
 
