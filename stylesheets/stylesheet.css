@@ -19,7 +19,7 @@ time, mark, audio, video {
 	margin: 0;
 	font: inherit;
 	font-size: 100%;
-	vertical-align: baseline;
+	vertical-align: baseline;down
 	border: 0;
 }
 /* HTML5 display-role reset for older browsers */
@@ -157,7 +157,7 @@ a.button span {
 }
 
 #download-setup span {
-  background: transparent url(http://i157.photobucket.com/albums/t57/vdcjunior/setup_icon_zpskvibredq.png) 12px 50% no-repeat;
+  background: transparent url(http://i157.photobucket.com/albums/t57/vdcjunior/setup_icon_zpskvibredq.png) 12px 0% no-repeat;
 }
 
 #download-tar-gz span {
